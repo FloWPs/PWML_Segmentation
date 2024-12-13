@@ -2,3 +2,6 @@ models/
 output/
 __pycache__
 utils/__pycache__/
+requirementsall.txt
+requirementsbug.txt
+jordi_env/
